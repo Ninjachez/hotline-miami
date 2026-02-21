@@ -1,8 +1,5 @@
 # hotline miami
-
-						      ^
-						      |
-CLICK THE "CODE" DROPDOWN, THEN DOWNLOAD ZIP!!	      |
+CLICK THE "CODE" DROPDOWN, THEN DOWNLOAD ZIP!!
 
 
 Hey! You fond my website! Thanks for downloading.
